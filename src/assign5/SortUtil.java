@@ -127,7 +127,7 @@ public class SortUtil {
 	 * 
 	 * The implementation of this code was referenced from Nataraja Gootooru's
 	 * web page java2novice.com. The original code was meant to deal with
-	 * array's, but this has been altered for array lists.
+	 * array's, but this has been altered for array's lists.
 	 * 
 	 * @param list
 	 * @param low
